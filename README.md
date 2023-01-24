@@ -1,2 +1,2 @@
 # Projects
-Project created with Htm, CSS &amp; JavaScript 
+Projects created with Html, CSS &amp; JavaScript 
