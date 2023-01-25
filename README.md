@@ -1,2 +1,2 @@
-# Projects
-Projects created with Html, CSS &amp; JavaScript 
+# Numeric Calculator 
+The Calculator is created with Html, CSS &amp; JavaScript 
